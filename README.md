@@ -1,8 +1,11 @@
 # Hermitao's Cellular Automata Landmass Generator
 ![Picture 0](https://i.imgur.com/bGDpcr9.png)
-Uses simple cellular automata to generate landmasses in the Windows command prompt.
-If a cell has 4 neighbours, it stays as land or becomes land if it's ocean. Otherwise it becomes water.
-Have fun!
+
+# Uses simple cellular automata to generate landmasses in the Windows command prompt.
+# If a cell has 4 neighbours, it stays as land or becomes land if it's ocean. Otherwise it becomes water.
+# Have fun!
+
+# Media
 ![Picture 1](https://i.imgur.com/NvZzbr0.png)
 ![Picture 2](https://i.imgur.com/GRIXbhO.png)
 
